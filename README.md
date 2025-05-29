@@ -22,7 +22,7 @@ Projeto desenvolvido como parte do desafio da DIO para identificar a bandeira de
 ### 📥 Entrada do Usuário
 Abaixo está um exemplo de input no terminal com o número do cartão:
 
-![Entrada do usuário](imagens/exemplo-input.jpeeg)
+![Entrada do usuário](imagens/exemplo-input.jpeg)
 
 ### 📤 Saída do Programa
 Aqui está o resultado exibido pelo programa:
