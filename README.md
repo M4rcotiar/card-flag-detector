@@ -34,6 +34,14 @@ Aqui está o resultado exibido pelo programa:
 - Java 8+
 - Git e GitHub
 
+## 🧪 Como testar com segurança
+
+# ⚠️ Não utilize o número do seu cartão real para testar esta aplicação!
+
+Para testes, você pode gerar números de cartões válidos (fictícios) no site 4Devs - Gerador de Cartão de Crédito.
+
+Esse gerador cria números apenas para fins de teste e aprendizagem, com bandeiras como Visa, MasterCard, entre outras.
+
 ## ▶️ Como executar
 
 1. Clone o repositório:
