@@ -41,5 +41,4 @@ Aqui está o resultado exibido pelo programa:
 git clone https://github.com/seu-usuario/card-flag-detector-java.git
 cd card-flag-detector-java
 
-
 ## 📄 [Clique aqui para ver o certificado de conclusão](certificado/certificado-dio.pdf)
