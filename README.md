@@ -36,9 +36,9 @@ Aqui está o resultado exibido pelo programa:
 
 ## 🧪 Como testar com segurança
 
-# ⚠️ Não utilize o número do seu cartão real para testar esta aplicação!
+### ⚠️ Não utilize o número do seu cartão real para testar esta aplicação!
 
-Para testes, você pode gerar números de cartões válidos (fictícios) no site 4Devs - Gerador de Cartão de Crédito.
+Para testes, você pode gerar números de cartões válidos (fictícios) no site [4Devs](https://www.4devs.com.br/gerador_de_numero_cartao_credito) - Gerador de Cartão de Crédito.
 
 Esse gerador cria números apenas para fins de teste e aprendizagem, com bandeiras como Visa, MasterCard, entre outras.
 
