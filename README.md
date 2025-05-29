@@ -22,12 +22,12 @@ Projeto desenvolvido como parte do desafio da DIO para identificar a bandeira de
 ### 📥 Entrada do Usuário
 Abaixo está um exemplo de input no terminal com o número do cartão:
 
-![Entrada do usuário](images/exemplo-input.png)
+![Entrada do usuário](images/exemplo-input.jpeeg)
 
 ### 📤 Saída do Programa
 Aqui está o resultado exibido pelo programa:
 
-![Saída do programa](images/exemplo-output.png)
+![Saída do programa](images/exemplo-output.jpeg)
 
 ## 🛠️ Tecnologias utilizadas
 
